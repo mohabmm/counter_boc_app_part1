@@ -1,6 +1,6 @@
-# counter_boc_app_part1
+# counter template using BLOC
 
-flutter application using bloc and streams 
+flutter application using BLOC and streams 
 
 ## Getting Started
 
